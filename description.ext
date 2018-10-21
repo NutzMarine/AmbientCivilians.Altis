@@ -1,0 +1,6 @@
+author = "Nutz Marine";
+onLoadName = "Ambient Altis";
+OnLoadMission = "Demo of Nutz Marine's ambient civilian scripts using Altis assets.";
+
+#define true  1
+#define false 0
